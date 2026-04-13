@@ -50,5 +50,11 @@ python notebooks/kpi_automation.py
 ```
 
 ## Results & Insights
-> To be updated after analysis completion.
+- **Total Sales:** $2,261,536.78 across 4,922 orders
+- **Total Customers:** 793 unique customers
+- **Avg Order Value:** $459.48
+- **Top Category:** Technology ($827,455) followed by Furniture ($728,658) and Office Supplies ($705,422)
+- **Top Region:** West ($710,219) leading all 4 regions
+- **Top Segment:** Consumer driving highest sales volume
+- **AI Narrative:** Auto-generated executive summary using Gemini AI integrated into Excel report
 
