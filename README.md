@@ -1,7 +1,7 @@
 #  AI-Powered KPI Reporting Automation Pipeline
 
 ##  Problem Statement
-Business teams spend significant time manually compiling KPI reports from raw sales data. This project automates the entire reporting pipeline — from data ingestion and KPI computation to AI-generated narrative insights and formatted Excel report generation — drastically reducing manual reporting effort.
+Business teams spend significant time manually compiling KPI reports from raw sales data. This project automates the entire reporting pipeline from data ingestion and KPI computation to AI-generated narrative insights and formatted Excel report generation drastically reducing manual reporting effort.
 
 ##  Tools & Technologies
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, OpenPyXL)
